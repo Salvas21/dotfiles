@@ -1,0 +1,2 @@
+# https://kyleshevlin.com/bash-shortcut-copy-your-present-working-directory-to-your-clipboard                                                                                                                                                                                                                                                                         
+alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'"
