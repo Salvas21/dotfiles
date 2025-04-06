@@ -6,6 +6,10 @@
 - `.zsh`: directory for aliases/functions and plugins config files
 - `.wezterm.lua`: my [WezTerm](https://github.com/wezterm/wezterm) config
 - `aerospace.toml`: my [AeroSpace](https://github.com/nikitabobko/AeroSpace) window manager config
+- `.config`:
+    - `nvim`: my neovim config with basic highlight, remaps, lsp, and some more plugin. Based on this [video](https://www.youtube.com/watch?v=w7i4amO_zaE)
+    - `neofetch`: neofetch config with small ui tweaks
+    - `htop`: htop config with small ui tweaks
 - `gruvbox.terminal`: my gruvbox macOS Terminal color theme (inspired from this [color palette](https://github.com/morhetz/gruvbox#dark-mode-1))
 - `.vimrc`: basic `vi`/`vim` config
 
