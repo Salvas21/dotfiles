@@ -43,3 +43,5 @@ config.colors = {
   }
 
 return config
+
+-- https://wezterm.org/config/lua/config/freetype_load_target.html
