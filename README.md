@@ -24,3 +24,11 @@ There are some dotfiles for Windows that i have included under `windows-dotfiles
 - `.wezterm.lua`: my [WezTerm](https://github.com/wezterm/wezterm) config for Windows which includes multiplexing remaps to achieve near tmux usage
 - `PowerShell_profile.ps1`: my PowerShell profile, basic autocomplete feature on tab and etc
 
+## TODO
+
+- Add the vim gruvbox theme auto install 
+- `git@github.com:morhetz/gruvbox.git`
+- `wget https://raw.githubusercontent.com/morhetz/gruvbox/refs/heads/master/colors/gruvbox.vim`
+- add information about installing packer sync before configuring nvim (see packersync repo)
+- `git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim`
