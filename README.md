@@ -24,7 +24,3 @@ There are some dotfiles for Windows that i have included under `windows-dotfiles
 - `.wezterm.lua`: my [WezTerm](https://github.com/wezterm/wezterm) config for Windows which includes multiplexing remaps to achieve near tmux usage
 - `PowerShell_profile.ps1`: my PowerShell profile, basic autocomplete feature on tab and etc
 
-### TODO
-
-* Possibly do an install script or atleast autodownload zsh plugins github repos
-* ...
